@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently studying **Linux,Flutter and IBM's Cyber Security Courses.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pr0metheus00?tab=repositories](https://github.com/pr0metheus00?tab=repositories)
-
 - 💬 Ask me about **Java,Python.**
 
 - 📫 How to reach me **buluthaninan@gmail.com**
