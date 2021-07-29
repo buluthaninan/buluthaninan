@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pr0metheus00" alt="pr0metheus00" /></a> </p>
 
-- 🌱 I’m currently learning **Linux,Flutter and IBM's Cyber Security Courses.**
+- 🌱 I’m currently studying **Linux,Flutter and IBM's Cyber Security Courses.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pr0metheus00?tab=repositories](https://github.com/pr0metheus00?tab=repositories)
 
