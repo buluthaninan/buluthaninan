@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning Linux,Flutter and IBM's Cyber Security Courses. 
 
-- 👯 I’m looking to collaborate on Java, Pyhton and Front-End Web Projects. 
+- 👯 I’m looking to collaborate on Java, Python and Front-End Web Projects. 
 
 - 💬 Talk to me about Python, JavaScript,PHP, Java, Freelancing Opportunites, Open Source Projects.
 
