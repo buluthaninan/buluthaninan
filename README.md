@@ -30,8 +30,6 @@
 <a href= https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/> </a>
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/> </a>
-  
-  
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> </a>
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/> </a>
 <a href="https://trello.com/buluthaninan"> <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/> </a>
@@ -67,9 +65,9 @@
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
   
-<a href= https://www.instagram.com/buluthann > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg'> </a>
+<a href= https://www.instagram.com/buluthann > <img alt="Instagram" src="https://img.shields.io/badge/<buluthann>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/> </a>
 <a href= https://leetcode.com/buluthaninan/ > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/leet-code.svg'> </a>
-<a href= https://www.hackerrank.com/buluthaninan > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/hackerrank.svg'> </a>
+<a href= https://www.hackerrank.com/buluthaninan > <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
 
 
 
