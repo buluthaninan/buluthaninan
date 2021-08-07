@@ -24,7 +24,7 @@
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> </a>
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> </a>
-<a href="https://github.com/sheptang/markdown-badges"> <img alt="PHP" width='50px' src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> </a>
+<a href="https://github.com/sheptang/markdown-badges"> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> </a>
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> </a>
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> </a>
 <a href= https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/flutter.svg'> </a>
