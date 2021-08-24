@@ -15,9 +15,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Flutter.
+- 🔭 I’m currently working on.
 
-- 🌱 I’m currently learning Linux,Flutter and IBM's Cyber Security Courses. 
+- 🌱 I’m currently learning Flutter. 
 
 - 👯 I’m looking to collaborate on Java, Python and Front-End Web Projects. 
 
