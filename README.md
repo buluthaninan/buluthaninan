@@ -11,7 +11,7 @@
   
   
 <h2>CV for Internship/Hiring <img src = "https://media.giphy.com/media/iFVTmBdUkLyQi1QJO9/giphy.gif?cid=ecf05e47l95rigx6iv2n9ge8c5ehu013hh7tokmzfnzvej95&rid=giphy.gif&ct=g" width = 100px></h2>
-You can reach my CV from <a href="https://drive.google.com/file/d/1YG4XGUP5kkawDe2ozWZZjS3-6FL79aJw/view?usp=sharing">This Link</a>  
+You can reach/download my CV from <a href="https://drive.google.com/file/d/1YG4XGUP5kkawDe2ozWZZjS3-6FL79aJw/view?usp=sharing">This Link</a>  
   
 </div>
 
