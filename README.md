@@ -8,6 +8,9 @@
 
 </p>
 <div size='20px'> Hi! My name is Buluthan. I am currently a student at Izmir Universtiy of Economics. I am studying Software Engineering. Thank You for taking the time to view my GitHub Profile :smile: Looking for some internship ;)
+<br>
+<br>
+You can reach my CV from <a href="https://drive.google.com/file/d/1YG4XGUP5kkawDe2ozWZZjS3-6FL79aJw/view?usp=sharing">This Link</a>
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
