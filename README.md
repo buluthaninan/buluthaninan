@@ -22,7 +22,7 @@ You can download my CV from <a href="https://drive.google.com/u/0/uc?id=1YG4XGUP
 
 - 🔭 I’m currently working on scholl projects and senior year project.
 
-- 🌱 I’m currently learning Flutter. 
+- 🌱 I’m currently learning advanced Flutter. 
 
 - 👯 I’m looking to collaborate on Java, Python and Front-End Web Projects. 
 
