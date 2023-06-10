@@ -21,11 +21,11 @@ You can download my CV from <a href="https://drive.google.com/uc?export=download
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on scholl projects and senior year project.
+- 🔭 I’m currently working on ESBAŞ as a Full Stack / Mobile Developer.
 
-- 🌱 I’m currently learning advanced Flutter. 
+- 🌱 I’m currently learning .NET Core. 
 
-- 👯 I’m looking to collaborate on Java, Python and Front-End Web Projects. 
+- 👯 I’m looking to collaborate on Java, Python, Flutter, Front-End Web Projects. 
 
 - 💬 Talk to me about Python, JavaScript,PHP, Java, Freelancing Opportunites, Open Source Projects.
 
