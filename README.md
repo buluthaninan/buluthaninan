@@ -23,12 +23,6 @@ You can download my CV from <a href="https://drive.google.com/uc?export=download
 
 - 🔭 I’m currently working on ESBAŞ as a Full Stack / Mobile Developer.
 
-- 🌱 I’m currently learning .NET Core. 
-
-- 👯 I’m looking to collaborate on Java, Python, Flutter, Front-End Web Projects. 
-
-- 💬 Talk to me about Python, JavaScript,PHP, Java, Freelancing Opportunites, Open Source Projects.
-
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> </a>
 <a href="https://github.com/sheptang/markdown-badges"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> </a>
