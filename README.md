@@ -4,7 +4,7 @@
   
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pr0metheus00.pr0metheus00)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=buluthaninan.buluthaninan)
 
 </p>
 <div size='20px'> Hi! My name is Buluthan. I am currently a student at Izmir Universtiy of Economics. I am studying Software Engineering. Thank You for taking the time to view my GitHub Profile :smile: Looking for some internship ;)
@@ -77,10 +77,10 @@ You can download my CV from <a href="https://drive.google.com/uc?export=download
 <h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=pr0metheus00&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=buluthaninan&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr0metheus00&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buluthaninan&theme=tokyonight" />
 </a>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
