@@ -59,8 +59,6 @@ You can download my CV here:
 
 ## 🛠 Tech Stack  
 
-## 🛠 Tech Stack  
-
 <div align="center">
 
 ### 🔤 Languages & Frameworks  
