@@ -9,10 +9,6 @@
   <em>M.Sc. Student in Computer Engineering · Full Stack & Mobile Developer</em>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=buluthaninan.buluthaninan" alt="visitors" />
-</p>
-
 ---
 
 <div align="center">
@@ -63,36 +59,63 @@ You can download my CV here:
 
 ## 🛠 Tech Stack  
 
+## 🛠 Tech Stack  
+
 <div align="center">
 
 ### 🔤 Languages & Frameworks  
-
-<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+<img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+
+### 📱 Mobile Development  
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-Mobile-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img alt="Android" src="https://img.shields.io/badge/Android-Native-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
+
+### 🧱 Backend & API  
+<img alt="REST API" src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white"/>
+<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img alt=".NET" src="https://img.shields.io/badge/.NET_Backend-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 
 ### 🗄 Databases  
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="MSSQL" src="https://img.shields.io/badge/MS_SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 
-<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+### ☁️ Cloud, Deployment & DevOps  
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img alt="NGINX" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
+<img alt="Linux Server" src="https://img.shields.io/badge/Linux_Server-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
 
-### 🧰 Tools  
-
-<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+### 🔧 Tools, CI/CD & Development  
+<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 
-### 🧑‍💻 IDEs  
+### 🧠 Concepts & Strengths  
+<img alt="Scrum" src="https://img.shields.io/badge/Scrum-Agile-%2300A9E0.svg?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
+<img alt="AHP" src="https://img.shields.io/badge/AHP-Decision%20Making-%23007ACC.svg?style=for-the-badge&logo=matrix&logoColor=white"/>
+<img alt="Clean Architecture" src="https://img.shields.io/badge/Clean_Architecture-%23323330.svg?style=for-the-badge&logo=archlinux&logoColor=white"/>
+<img alt="OOP" src="https://img.shields.io/badge/OOP-Principles-%23000000.svg?style=for-the-badge&logo=abstract&logoColor=white"/>
+<img alt="SOLID" src="https://img.shields.io/badge/SOLID-Principles-%23F7DF1E.svg?style=for-the-badge&logo=leanpub&logoColor=black"/>
+<img alt="Software Maintenance" src="https://img.shields.io/badge/Software_Maintenance-%235C2D91.svg?style=for-the-badge&logo=semanticweb&logoColor=white"/>
+<img alt="API Integration" src="https://img.shields.io/badge/API_Integration-%23007396.svg?style=for-the-badge&logo=api&logoColor=white"/>
 
-<img alt="VS Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
+### 🧑‍💻 IDEs  
+<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 
 </div>
+
 
 ---
 
