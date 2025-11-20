@@ -6,104 +6,65 @@
 </p>
 
 <p align="center">
-  <em>Software Engineering Student @ Izmir University of Economics · Full Stack / Mobile Developer @ ESBAŞ</em>
+  <em>M.Sc. Student in Computer Engineering · Full Stack & Mobile Developer</em>
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
+## 🎓 About Me  
 
-- 🎓 Software Engineering student at **Izmir University of Economics**  
-- 💼 Currently working at **ESBAŞ** as a **Full Stack / Mobile Developer**  
-- 📱 Mostly building apps with **Flutter**, **Dart**, and modern web technologies  
-- 📚 Interested in **backend development**, **APIs**, and **clean architecture**  
-- 🌱 Always learning and experimenting with new tools & technologies  
-- 🔍 Looking for new opportunities, collaborations, and interesting side projects  
+- 🔬 I'm currently a **Master’s student in Computer Engineering** at **Izmir University of Economics**, focusing on  
+  **Agile Software Development, Software Maintenance, and Process Optimization**.  
+- 💼 Working at **ESBAŞ** as a **Full Stack / Mobile Developer**.  
+- 📱 I mostly work with **Flutter**, **Dart**, **React**, and **modern backend architectures**.  
+- 🧪 My academic work includes **Systematic Literature Review (SLR)** and **Empirical Investigation** (industry interviews).  
+- 🛠 With experience in both academia and industry, I enjoy bridging **research** and **practical development**.  
+- 🌱 Continuously improving myself in **software architecture**, **API design**, and **clean code principles**.
 
-> 🔎 *My public GitHub might look a bit quiet lately — I’m focusing more on work, thesis, and private repos.*  
+> 💡 *My public GitHub may look quieter recently — most of my work is in private or academic repositories.*
 
 ---
 
-## 📄 CV for Internship / Hiring  
+## 📄 CV  
 
-You can download my CV from  
-👉 <a href="https://drive.google.com/uc?export=download&id=1YgkPmQdhUlD6XdO4Rd5pV1sSu-9EfgWP"><b>Download My CV</b></a>
+👉 Download my CV here:  
+<a href="https://drive.google.com/uc?export=download&id=1YgkPmQdhUlD6XdO4Rd5pV1sSu-9EfgWP"><b>Download My CV</b></a>
 
 ---
 
 ## 🛠 Tech Stack  
 
 ### 💻 Languages & Frameworks  
-
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-</a>
+<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> 
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+<img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 ### 🗄 Databases  
+<img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
+### 🧰 Tools  
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
 
-### 🧰 Tools & Platforms  
+### 🧑‍💻 IDEs  
+<img alt="VS Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+<img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://trello.com/buluthaninan">
-  <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-</a>
+---
 
-### 🧑‍💻 IDEs / Editors  
-
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-</a>
-
-### 🧾 Office  
-
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" />
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Microsoft PowerPoint" src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white" />
-</a>
-<a href="https://github.com/sheptang/markdown-badges">
-  <img alt="Microsoft Excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</a>
+## 📚 Research Areas  
+- Agile & Scrum in Software Maintenance  
+- Regression Risk Assurance  
+- Technical Debt & Architecture in Agile Teams  
+- AHP (Analytic Hierarchy Process) for prioritization  
+- Developer productivity and workflow optimization  
 
 ---
 
@@ -122,18 +83,13 @@ You can download my CV from
 ---
 
 <details>
-  <summary>📊 GitHub Stats (when I'm not buried in work)</summary>
+  <summary>📊 GitHub Stats (toggle)</summary>
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=buluthaninan&count_private=true&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=buluthaninan&theme=tokyonight" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=buluthaninan&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buluthaninan&theme=tokyonight"/>
 </details>
 
 ---
 
-## 😂 A Little Programming Humor  
-
+## 😂 Programming Humor  
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=highcontrast)
