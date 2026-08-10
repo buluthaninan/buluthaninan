@@ -1,160 +1,86 @@
-<h1 align="center">Hi, I'm Buluthan 👋</h1>
+# Buluthan İnan
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px" />
-  <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="70px" />
+**Full Stack & Flutter Developer** at ESBAŞ (Aegean Free Zone), İzmir · M.Sc. Computer Engineering
+
+<p>
+  <img alt="C#" src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
+  <img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-<p align="center">
-  <em>M.Sc. Student in Computer Engineering · Full Stack & Mobile Developer</em>
-</p>
+I build and maintain the ERP a free zone runs on — web modules in C# / .NET Core with React
+front-ends, and the organisation's entire mobile layer in Flutter. In a small team that means
+analysis, development, testing and talking to the companies who use the system all land on the
+same desk.
 
 ---
 
-<div align="center">
+## What I've built
 
-🎓 Master’s @ Izmir University of Economics  
-💼 Full Stack & Mobile Developer @ ESBAŞ  
-📍 Based in Türkiye  
-📫 Reach me via GitHub or social links below  
+**ERP companion app** — form approvals, notifications, balance and expense tracking on a phone
+instead of a desk. Used every day by 100+ employees.
+`Flutter` `Dart` `Firebase` `OneSignal` `.NET Core`
 
-</div>
+**Receipt reading & expense tracking** — an employee photographs a receipt, OpenAI extracts the
+amount and line items, and the record lands in the ERP. Credit-card and cash-advance spending is
+tracked this way. The one module I built from the ground up.
+`OpenAI` `C#` `.NET Core` `React` `SQL Server`
 
----
+**Warehouse terminal & transit logging** — two apps running on Zebra and Honeywell handhelds.
+Stock counts, transfers and vehicle transit records are completed on the floor with the device's
+own barcode scanner; transit records feed billing directly.
+`Flutter` `Zebra` `Honeywell` `REST API`
 
-## 🧑‍💻 About Me  
+**Menu planning & ordering platform** — each company in the zone manages its own menu.
+Mobile and web ship from one Flutter codebase. Used by 15+ companies.
+`Flutter` `Flutter Web` `Firebase` `Excel`
 
-<p align="left">
-I’m a Master’s student in <b>Computer Engineering</b> at <b>Izmir University of Economics</b>, and I work as a <b>Full Stack / Mobile Developer</b> at <b>ESBAŞ</b>. I enjoy building real-world products, working with APIs, and improving developer processes.
-</p>
+**Persisto** — a habit and streak tracker I wrote in Flutter. Reminders are scheduled through
+OneSignal at five fixed times a day, and the rest of the day's notifications cancel themselves
+the moment you complete a category. Streak and freeze logic is covered by unit tests.
+`Flutter` `Firebase Auth` `Firestore` `Supabase`
 
-- 🧱 Tech focus: **Flutter**, **Dart**, **REST APIs**, **backend development**
-- 🧪 Balance between **industry work** and **academic research**
-- 🧹 Care about **clean code**, **maintainability**, and **good architecture**
-- 🎯 Open to **collaborations**, **internship/hiring opportunities**, and **interesting side projects**
-
-> 🔎 *My public GitHub might look quieter lately — most of my work lives in private repos and company projects.*
-
----
-
-## 🎓 Master’s Thesis  
-
-**Title:**  
-**“Understanding the Discrepancy: Adapting Scrum for Effective Software Maintenance — A Systematic Literature Review and Empirical Investigation”**
-
-**Short Summary:**  
-- 📚 I conduct a **Systematic Literature Review (SLR)** to analyze how Scrum is used or adapted for software maintenance.  
-- 🧑‍💼 I complement this with **industry interviews** to understand real-world practices and challenges (urgent bugs vs. sprint, technical debt, regression risk, etc.).  
-- ⚖️ Using methods like **Analytic Hierarchy Process (AHP)**, I **prioritize maintenance-related issues and improvement criteria**.  
-- 🎯 Goal: propose a more **practical, maintenance-aware Scrum adaptation** that better reflects how teams actually work.
+> Most of the above lives in private company repositories, so there isn't much to read here.
 
 ---
 
-## 📄 CV  
+## Master's thesis
 
-You can download my CV here:  
-👉 <a href="https://drive.google.com/uc?export=download&id=1YgkPmQdhUlD6XdO4Rd5pV1sSu-9EfgWP"><b>Download My CV</b></a>
+**Adapting Scrum for Effective Software Maintenance: Understanding the Discrepancy and Bridging the Gap**
+Izmir University of Economics · June 2026 · Advisor: Asst. Prof. Dr. Kaan Kurtel
 
----
+Scrum was never designed for the interrupt-driven reality of post-deployment maintenance. Through a
+systematic literature review, interviews with 10 industry practitioners and an AHP study with a
+15-expert panel (group consistency ratio 0.0089), urgent work and technical debt turned out to
+account for roughly **45% of the problem weight** — unplanned work forces architectural
+compromises, the resulting debt breeds more defects, and the loop tightens.
 
-## 🛠 Tech Stack  
-
-<div align="center">
-
-### 🔤 Languages & Frameworks  
-<img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
-<img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-
-### 📱 Mobile Development  
-<img alt="Flutter" src="https://img.shields.io/badge/Flutter-Mobile-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white"/>
-<img alt="Android" src="https://img.shields.io/badge/Android-Native-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white"/>
-
-### 🧱 Backend & API  
-<img alt="REST API" src="https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge&logo=api&logoColor=white"/>
-<img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img alt=".NET" src="https://img.shields.io/badge/.NET_Backend-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-### 🗄 Databases  
-<img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img alt="MSSQL" src="https://img.shields.io/badge/MS_SQL-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-
-### ☁️ Cloud, Deployment & DevOps  
-<img alt="Vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img alt="NGINX" src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
-<img alt="Linux Server" src="https://img.shields.io/badge/Linux_Server-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
-<img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white"/>
-
-### 🔧 Tools, CI/CD & Development  
-<img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
-<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white"/>
-
-### 🧠 Concepts & Strengths  
-<img alt="Scrum" src="https://img.shields.io/badge/Scrum-Agile-%2300A9E0.svg?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
-<img alt="AHP" src="https://img.shields.io/badge/AHP-Decision%20Making-%23007ACC.svg?style=for-the-badge&logo=matrix&logoColor=white"/>
-<img alt="Clean Architecture" src="https://img.shields.io/badge/Clean_Architecture-%23323330.svg?style=for-the-badge&logo=archlinux&logoColor=white"/>
-<img alt="OOP" src="https://img.shields.io/badge/OOP-Principles-%23000000.svg?style=for-the-badge&logo=abstract&logoColor=white"/>
-<img alt="SOLID" src="https://img.shields.io/badge/SOLID-Principles-%23F7DF1E.svg?style=for-the-badge&logo=leanpub&logoColor=black"/>
-<img alt="Software Maintenance" src="https://img.shields.io/badge/Software_Maintenance-%235C2D91.svg?style=for-the-badge&logo=semanticweb&logoColor=white"/>
-<img alt="API Integration" src="https://img.shields.io/badge/API_Integration-%23007396.svg?style=for-the-badge&logo=api&logoColor=white"/>
-
-### 🧑‍💻 IDEs  
-<img alt="VS Code" src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-<img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
-
-</div>
-
+The outcome is **SAMIM**, an adaptation applied on top of Scrum rather than in place of it:
+a rotating **System Steward** role owning triage and organisational memory, formalised
+**capacity buffers**, a **swap policy**, and a **stabilisation window**.
 
 ---
 
-## 📚 Research & Interests  
+## Tech
 
-- Agile & **Scrum for software maintenance**  
-- **Regression risk** and test assurance in fast-paced teams  
-- **Technical debt** and long-term code health  
-- **AHP** and decision-making models in software engineering  
-- Developer experience, tooling, and productivity  
-
----
-
-## 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.instagram.com/buluthann">
-    <img alt="Instagram" src="https://img.shields.io/badge/@buluthann-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/buluthaninan/">
-    <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-buluthaninan-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-  <a href="https://www.hackerrank.com/buluthaninan">
-    <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
-  </a>
-</p>
+| | |
+| --- | --- |
+| **Languages** | C#, Dart, JavaScript, Java, SQL, HTML, CSS |
+| **Backend** | .NET Core, ASP.NET, Entity Framework, RESTful APIs |
+| **Frontend** | React, Flutter, Flutter Web |
+| **Data & services** | SQL Server, Firebase, Firestore, Supabase, OpenAI API, OneSignal |
+| **Tools & practice** | Git, TFS, Docker, Jira, Postman, Agile / Scrum |
 
 ---
 
-## 📊 GitHub Overview  
+## Elsewhere
 
-<details>
-  <summary>Click to expand</summary>
-  <br/>
-  <p><i>Public stats don’t always reflect my private & work repos, but here’s a quick overview:</i></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=buluthaninan&count_private=true&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buluthaninan&theme=tokyonight" />
-</details>
-
----
-
-## 😂 Programming Humor  
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=highcontrast)
+[Portfolio](https://buluthaninan.github.io) ·
+[LinkedIn](https://www.linkedin.com/in/buluthaninan/) ·
+[CV (PDF)](https://buluthaninan.github.io/buluthan-inan-cv-en.pdf) ·
+[LeetCode](https://leetcode.com/buluthaninan/) ·
+[HackerRank](https://www.hackerrank.com/buluthaninan) ·
+buluthaninan.dev@gmail.com
